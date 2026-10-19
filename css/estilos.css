@@ -11,3 +11,7 @@
 strong {
     color: #FFA500;
 }
+
+.subrayado {
+    text-decoration: underline;
+}
