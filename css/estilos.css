@@ -15,3 +15,13 @@ strong {
 .subrayado {
     text-decoration: underline;
 }
+
+body {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+}
