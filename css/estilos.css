@@ -1,5 +1,5 @@
 #titulo {
-    font-family: Arial, sans-serif;
+    
     color: #FFA500;
     font-size: 100px;
     text-transform: uppercase;
@@ -16,16 +16,28 @@ strong {
     text-decoration: underline;
 }
 
+* {
+    font-family: Arial, sans-serif;
+}
+
 body {
     background-color: #000000;
     color: #FFFFFF;
-    font-family: Arial, sans-serif;
     font-size: 18px;
     line-height: 1.6;
     margin: 0;
     padding: 20px;
 }
 
+img {
+    vertical-align: middle; /* baseline, top, middle, bottom, sub, sup */
+}|
 a:visited { color: #FFA500;} /* Link que ya se ha visto*/
 a:hover { font-weight: bold; text-decoration: none;} /* Cursor sobre el link */
 a:active { color: rgb(10, 158, 232);}
+
+div {
+    margin-top: 25px;
+    text-align: center;
+}
+
