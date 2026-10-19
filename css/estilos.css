@@ -25,3 +25,7 @@ body {
     margin: 0;
     padding: 20px;
 }
+
+a:visited { color: #FFA500;} /* Link que ya se ha visto*/
+a:hover { font-weight: bold; text-decoration: none;} /* Cursor sobre el link */
+a:active { color: rgb(10, 158, 232);}
