@@ -1,7 +1,13 @@
 #titulo {
     font-family: Arial, sans-serif;
-    color: orange;
+    color: #FFA500;
     font-size: 100px;
+    text-transform: uppercase;
     text-align: center;
     margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+strong {
+    color: #FFA500;
 }
